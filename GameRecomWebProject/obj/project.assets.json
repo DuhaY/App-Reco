@@ -9391,11 +9391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taner\\source\\repos\\GameRecomWebProject\\GameRecomWebProject\\GameRecomWebProject.csproj",
+      "projectUniqueName": "C:\\Users\\taner\\source\\repos\\DuhaY\\App-Reco\\GameRecomWebProject\\GameRecomWebProject.csproj",
       "projectName": "GameRecomWebProject",
-      "projectPath": "C:\\Users\\taner\\source\\repos\\GameRecomWebProject\\GameRecomWebProject\\GameRecomWebProject.csproj",
+      "projectPath": "C:\\Users\\taner\\source\\repos\\DuhaY\\App-Reco\\GameRecomWebProject\\GameRecomWebProject.csproj",
       "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taner\\source\\repos\\GameRecomWebProject\\GameRecomWebProject\\obj\\",
+      "outputPath": "C:\\Users\\taner\\source\\repos\\DuhaY\\App-Reco\\GameRecomWebProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9406,6 +9406,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9456,7 +9457,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

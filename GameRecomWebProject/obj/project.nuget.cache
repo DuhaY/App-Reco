@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JnePyDm8fHz0bSamuMToZrNGPq7wjh6VNqKhkO2klyWJRmcnIZq6PIjGFjYPihKWG/f+QxaQP63MJ84dbBr8WA==",
+  "dgSpecHash": "hT/nluzJ0egEV6LY91jFfncuiY64YOio6XO/HVRKNeLnpzKgf6MPFlY5wqr9BiIZ9oR/rMXry/oebIbqB66EzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\taner\\source\\repos\\GameRecomWebProject\\GameRecomWebProject\\GameRecomWebProject.csproj",
+  "projectFilePath": "C:\\Users\\taner\\source\\repos\\DuhaY\\App-Reco\\GameRecomWebProject\\GameRecomWebProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taner\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
     "C:\\Users\\taner\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
