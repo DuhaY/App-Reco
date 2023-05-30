@@ -1,2 +1,2 @@
 # App-Reco
-Repository for app recommendation project.
+Repository for app recommendation project that uses RAWG API.
