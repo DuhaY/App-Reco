@@ -496,3 +496,5 @@ C:\Users\taner\source\repos\DuhaY\App-Reco\GameRecomWebProject\obj\Debug\net6.0\
 C:\Users\taner\source\repos\DuhaY\App-Reco\GameRecomWebProject\obj\Debug\net6.0\GameRecomWebProject.csproj.CopyComplete
 C:\Users\taner\source\repos\DuhaY\App-Reco\GameRecomWebProject\obj\Debug\net6.0\GameRecomWebProject.genruntimeconfig.cache
 C:\Users\taner\source\repos\DuhaY\App-Reco\GameRecomWebProject\obj\Debug\net6.0\ref\GameRecomWebProject.dll
+C:\Users\taner\source\repos\DuhaY\App-Reco\GameRecomWebProject\obj\Debug\net6.0\GameRecomWebProject.Properties.Resources.resources
+C:\Users\taner\source\repos\DuhaY\App-Reco\GameRecomWebProject\obj\Debug\net6.0\GameRecomWebProject.csproj.GenerateResource.cache
