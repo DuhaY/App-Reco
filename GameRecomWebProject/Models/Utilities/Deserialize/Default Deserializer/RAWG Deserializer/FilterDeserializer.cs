@@ -11,7 +11,7 @@ namespace GameRecomWebProject.Models.Utilities.Deserialize.Default_Deserializer.
         //{
         //    var filter = new Dictionary<string, string>()
         //        {
-        //            {"key","c89e2e7c4e54489584f42d66b603ed05" }
+        //            {"key","apiKey" }
         //        };
 
         //    var json = JsonGetter.GetJson(("games/"+slug), filter);

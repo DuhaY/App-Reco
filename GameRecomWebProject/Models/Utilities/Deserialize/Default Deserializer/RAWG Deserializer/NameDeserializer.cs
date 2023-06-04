@@ -2,6 +2,7 @@
 using GameRecomWebProject.Models.Entities.Concrete;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Text.Json;
+using GameRecomWebProject.Models.BusinessLogic.Constants;
 
 namespace GameRecomWebProject.Models.Utilities.Deserialize.Default_Deserializer.RAWG_Deserializer
 {
@@ -12,10 +13,10 @@ namespace GameRecomWebProject.Models.Utilities.Deserialize.Default_Deserializer.
             var NameList = new List<AppName>();
 
             for (; page < 3; page++)
-            { 
+            {
                 var filter = new Dictionary<string, string>()
                 {
-                    {"key","c89e2e7c4e54489584f42d66b603ed05" },
+                    {"key", Config.apiKey },
                     {"page_size","40" },
                     {"page",page.ToString() }
                 };
